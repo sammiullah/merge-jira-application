@@ -1,0 +1,22 @@
+{
+  "Variables": __Variables__,
+  "VersionId": 0,
+  "FlowItems": __FlowItems__,
+  "FlowStates": __FlowStates__,
+  "FlowSections": __FlowSections__,
+  "EventTriggerLinks": __EventTriggerLinks__,
+  "SessionTimeoutInMinutes": __SessionTimeoutInMinutes__,
+  "InitialState": __InitialState__,
+  "InitialCardholderState": __InitialCardholderState__,
+  "InitialDtmfFlowValue": __InitialDtmfFlowValue__,
+  "ExternalTelephony": __ExternalTelephony__,
+  "UsesPostSessionScreen": __UsesPostSessionScreen__,
+  "IsMarkdownEnabled": __IsMarkdownEnabled__,
+  "AlternativeRenderingMode": __AlternativeRenderingMode__,
+  "SecureCallUponLinking": __SecureCallUponLinking__,
+  "LinkIdPrefix": __LinkIdPrefix__,
+  "LinkIdEnabled": __LinkIdEnabled__,
+  "Styling": __Styling__,
+  "FrameAncestors": __FrameAncestors__,
+  "FlowInterface": __FlowInterface__
+}

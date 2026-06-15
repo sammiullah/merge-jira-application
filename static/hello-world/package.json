@@ -1,0 +1,38 @@
+{
+  "name": "jira-admin-page-custom-ui-static",
+  "version": "0.1.73",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@atlaskit/css-reset": "^6.6.2",
+    "@forge/bridge": "5.16.2",
+    "react": "^16",
+    "react-dom": "^16"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.15",
+    "serve": "^14.2.4",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "scripts": {
+    "start": "npm run build && serve -s build -l 5500",
+    "dev": "react-scripts start",
+    "preview": "serve -s build -l 5500",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
