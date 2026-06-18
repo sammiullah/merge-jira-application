@@ -1,4 +1,4 @@
-# Forge Hello World
+# Forge Merge Monkey
 
 This project contains a Forge app written in Javascript that displays `Merge Flow` in a Jira admin page. 
 
