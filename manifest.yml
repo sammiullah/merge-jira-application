@@ -4,7 +4,7 @@ modules:
       resource: main
       resolver:
         function: resolver
-      title: MergeZilla
+      title: MergeMonkey
       layout: blank
   function:
     - key: resolver
@@ -19,6 +19,6 @@ app:
     name: nodejs24.x
     memoryMB: 256
     architecture: arm64
-  id: ari:cloud:ecosystem::app/66d75b92-3ddc-497a-8ee7-d294c95a9ee7
+  id: ari:cloud:ecosystem::app/4d96c4a2-e7be-4249-b79c-dd15d02ab847
 permissions:
   scopes: []
